@@ -84,15 +84,15 @@ Supported options and result fields for `getCustomer` are listed below.
 
 `config`
 
-| Type | X-Shopwaive-Access-Token | X-Shopwaive-Platform | Content-Type
+| Type | X-Shopwaive-Access-Token | X-Shopwaive-Platform | Content-Type |
 | --- | --- |
-| object | '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16' | 'Shopify' | 'application/json'
+| object | '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16' | 'Shopify' | 'application/json' |
 
 `customer_email`
 
-| Type | email
+| Type | email |
 | --- | --- |
-| object | 'support@shopwaive.com'
+| string | 'support@shopwaive.com' |
 
 Example:
 Perform an asynchronous http request to getCustomer
