@@ -1,4 +1,4 @@
-﻿[![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&ts=1683906897&type=6e&v=1.0.0&x2=0)](https://www.npmjs.com/package/@shopwaive/credit)
+﻿[![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&ts=1683906897&type=6e&v=1.0.6&x2=0)](https://www.npmjs.com/package/@shopwaive/credit)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # @shopwaive/credit
