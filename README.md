@@ -72,7 +72,7 @@ $ node script.js
 
 ## API
 
-### Example
+### getCustomer
 
 ```js
 Shopwaive.getCustomer(config, customer_email)
