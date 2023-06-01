@@ -26,14 +26,10 @@ v8.16.0
   - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Usage](#usage)
-    - [Serving the app](#serving-the-app)
-    - [Running the tests](#running-the-tests)
-    - [Building a distribution version](#building-a-distribution-version)
-    - [Serving the distribution version](#serving-the-distribution-version)
+    - [Running tests](#running-tests)
   - [API](#api)
-    - [useBasicFetch](#usebasicfetch)
+    - [getCustomer](#getcustomer)
       - [Options](#options)
-    - [fetchData](#fetchdata)
   - [Built With](#built-with)
   - [Versioning](#versioning)
   - [Authors](#authors)
@@ -76,7 +72,7 @@ $ node script.js
 
 ## API
 
-### useBasicFetch
+### Example
 
 ```js
 Shopwaive.getCustomer(config, customer_email)
