@@ -86,13 +86,17 @@ Supported options and result fields for `getCustomer` are listed below.
 
 | Type | X-Shopwaive-Access-Token | X-Shopwaive-Platform | Content-Type |
 | --- | --- | --- | --- |
-| object | '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16' | 'Shopify' | 'application/json' |
+| object | 'shpat_4b2f...' | 'shopify' | 'application/json' |
+
+
 
 `customer_email`
 
 | Type | email |
 | --- | --- |
 | string | 'support@shopwaive.com' |
+
+
 
 #### Request
 
