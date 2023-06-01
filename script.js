@@ -1,6 +1,6 @@
 const config = {
     headers: {
-        "X-Shopwaive-Access-Token": "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6",
+        "X-Shopwaive-Access-Token": "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60",
         "X-Shopwaive-Platform": "shopify",
         "Content-Type":"application/json"
     }
